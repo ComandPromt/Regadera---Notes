@@ -1,2 +1,5 @@
 # Regadera---Notes
-android jdbc mysql listview
+
+![Menu](previews/1.png)
+
+![Menu](previews/2.png)
